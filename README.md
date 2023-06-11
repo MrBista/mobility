@@ -1,5 +1,5 @@
 # Run Server
-0. Masuk ke Server Folder 
+0. Navigate to  Server Folder 
 1. npm install, for install all packages
 2. npx sequelize db:create, for create db locally
 3. npx sequelize db:migrate, for migrate table
@@ -7,7 +7,7 @@
 5. npm run dev, for run the server locally
 
 # Run admin side
-0. Masuk client-admin folder
+0. Navigate to client-admin folder
 1. npm install, for install all packages
 2. create file .env and put url server into variabel , the name of variabel must similar like in .example.env ,if you not change port server the default is http://localhost:3000
 3. npm run dev
@@ -22,7 +22,7 @@
 3. linux : <https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql-linux/>
 
 
-#RESULT: 
+# RESULT: 
 1. Login Page: 
 ![Screenshot from 2023-06-10 17-38-02](https://github.com/MrBista/mobility-interview/assets/93068364/cb5d2ff6-20c4-4832-bfb2-6b2800b4cf43)
 
