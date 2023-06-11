@@ -9,7 +9,7 @@
 # Run admin side
 0. Masuk client-admin folder
 1. npm install, for install all packages
-2. create file .env and put url server,if you not change port server the default is http://localhost:3000
+2. create file .env and put url server into variabel , the name of variabel must similar like in .example.env ,if you not change port server the default is http://localhost:3000
 3. npm run dev
 
 # Account Active
